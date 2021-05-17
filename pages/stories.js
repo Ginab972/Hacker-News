@@ -35,3 +35,4 @@ async function getStories(path) {
     const stories = await response.json();
     return stories;
 }
+
